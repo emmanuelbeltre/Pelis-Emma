@@ -14,6 +14,7 @@ class MovieSlider extends StatefulWidget {
   State<MovieSlider> createState() => _MovieSliderState();
 }
 
+//listo
 class _MovieSliderState extends State<MovieSlider> {
   final ScrollController scrollController = new ScrollController();
 
