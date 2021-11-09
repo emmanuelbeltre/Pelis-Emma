@@ -1,0 +1,4 @@
+#Thu Nov 04 16:16:45 AST 2021
+base.0=/Users/awm/Desktop/Emmanuel Curso/flutter/peliculas/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
